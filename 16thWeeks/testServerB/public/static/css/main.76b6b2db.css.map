@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.76b6b2db.css","mappings":"AAAA,kBAIE,qBAAyB,CADzB,YAAa,CADb,WAGF","sources":["App.css"],"sourcesContent":[".image-A,\n.image-B {\n  width: 400px;\n  height: 200px;\n  border: 1px solid #000000;\n}"],"names":[],"sourceRoot":""}
